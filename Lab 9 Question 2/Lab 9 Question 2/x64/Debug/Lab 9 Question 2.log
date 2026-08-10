@@ -1,0 +1,7 @@
+﻿  Lab 9 Question 2.cpp
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 2\Lab 9 Question 2\Lab 9 Question 2.cpp(9,16): error C2059: syntax error: ';'
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 2\Lab 9 Question 2\Lab 9 Question 2.cpp(12,2): error C2059: syntax error: 'return'
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 2\Lab 9 Question 2\Lab 9 Question 2.cpp(13,1): error C2059: syntax error: '}'
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 2\Lab 9 Question 2\Lab 9 Question 2.cpp(13,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 2\Lab 9 Question 2\Lab 9 Question 2.cpp(15,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 2\Lab 9 Question 2\Lab 9 Question 2.cpp(15,12): error C2447: '{': missing function header (old-style formal list?)

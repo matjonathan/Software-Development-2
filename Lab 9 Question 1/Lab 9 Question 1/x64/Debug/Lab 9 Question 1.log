@@ -1,0 +1,5 @@
+﻿  Lab 9 Question 1.cpp
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 1\Lab 9 Question 1\Lab 9 Question 1.cpp(6,15): error C2065: 'numerator': undeclared identifier
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 1\Lab 9 Question 1\Lab 9 Question 1.cpp(14,33): error C2001: newline in constant
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 1\Lab 9 Question 1\Lab 9 Question 1.cpp(15,8): error C2143: syntax error: missing ';' before 'std::cin'
+C:\Users\Jonat\source\repos\Lab Work\Lab Work\Lab 9 Question 1\Lab 9 Question 1\Lab 9 Question 1.cpp(15,15): error C2065: 'nummerator': undeclared identifier
